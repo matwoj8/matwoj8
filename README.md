@@ -14,16 +14,16 @@ Thanks for stopping by, and feel free to explore my projects! 🚀
 
 ## 🛠 Tech Stack
 
-| Language/Framework | Icon |
-|-------------------|------|
-| Python | 🐍 |
-| C | ⚙️ |
-| C++ | 🧠 |
-| Java | ☕ |
-| Rust | 🦀 |
-| JavaScript | 📜 |
-| React | ⚛️ |
-| Node.js | 🟢 |
-| TypeScript | 🔷 |
-| HTML | 🌐 |
-| CSS | 🎨 |
+| Language/Framework |
+|-------------------|
+| Python 🐍 |
+| C ⚙️ |
+| C++ 🧠 |
+| Java ☕ |
+| Rust 🦀 |
+| JavaScript 📜 |
+| React ⚛️ |
+| Node.js 🟢 |
+| TypeScript 🔷 |
+| HTML 🌐 |
+| CSS 🎨 |
