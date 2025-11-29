@@ -7,6 +7,6 @@ Beyond the repositories you can find here, I'm currently working on:
 - 🔌 A network simulator with dynamic topology for comparing the efficiency and stability of routing algorithms.
 - 🧠 A deep-learning model designed to play and improve at blackjack
 
-Apart from computer science, I also enjoy mathematics. I have experience from paricipating in math olympiad, and I ocassionally tutor students who want to strengthen their mathematical foundations.
+Apart from computer science, I also enjoy mathematics. I have experience gained from participating in Mathematical Olympiad, and I ocasionally tutor students who want to strengthen their mathematical foundations.
 
 Thanks for stopping by, and feel free to explore my projects! 🚀
