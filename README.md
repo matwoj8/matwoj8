@@ -11,6 +11,7 @@ Apart from computer science, I also enjoy mathematics. I have experience gained 
 
 Thanks for stopping by, and feel free to explore my projects! 🚀
 
+---
 
 **💻 Programming Languages**  
 - 🐍 **Python**  
