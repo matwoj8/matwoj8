@@ -12,7 +12,7 @@ Apart from computer science, I also enjoy mathematics. I have experience gained 
 Thanks for stopping by, and feel free to explore my projects! 🚀
 
 
-**💻 Języki programowania**  
+**💻 Programming Languages**  
 - 🐍 **Python**  
 - ⚙️ **C**  
 - 🧠 **C++**  
@@ -21,7 +21,7 @@ Thanks for stopping by, and feel free to explore my projects! 🚀
 - 📜 **JavaScript**  
 - 🔷 **TypeScript**  
 
-**🌐 Technologie webowe / frameworki**  
+**🌐 Web Technologies / Frameworks**  
 - 🌐 **HTML**  
 - 🎨 **CSS**  
 - ⚛️ **React**  
