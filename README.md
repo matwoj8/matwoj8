@@ -12,18 +12,17 @@ Apart from computer science, I also enjoy mathematics. I have experience gained 
 Thanks for stopping by, and feel free to explore my projects! 🚀
 
 
-## 🛠 Tech Stack
+**💻 Języki programowania**  
+- 🐍 **Python**  
+- ⚙️ **C**  
+- 🧠 **C++**  
+- ☕ **Java**  
+- 🦀 **Rust**  
+- 📜 **JavaScript**  
+- 🔷 **TypeScript**  
 
-| Language/Framework |
-|-------------------|
-| Python 🐍 |
-| C ⚙️ |
-| C++ 🧠 |
-| Java ☕ |
-| Rust 🦀 |
-| JavaScript 📜 |
-| React ⚛️ |
-| Node.js 🟢 |
-| TypeScript 🔷 |
-| HTML 🌐 |
-| CSS 🎨 |
+**🌐 Technologie webowe / frameworki**  
+- 🌐 **HTML**  
+- 🎨 **CSS**  
+- ⚛️ **React**  
+- 🟢 **Node.js**
