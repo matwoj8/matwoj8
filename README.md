@@ -10,3 +10,20 @@ Beyond the repositories you can find here, I'm currently working on:
 Apart from computer science, I also enjoy mathematics. I have experience gained from participating in Mathematical Olympiad, and I ocasionally tutor students who want to strengthen their mathematical foundations.
 
 Thanks for stopping by, and feel free to explore my projects! 🚀
+
+
+## 🛠 Tech Stack
+
+| Language/Framework | Icon |
+|-------------------|------|
+| Python | 🐍 |
+| C | ⚙️ |
+| C++ | 🧠 |
+| Java | ☕ |
+| Rust | 🦀 |
+| JavaScript | 📜 |
+| React | ⚛️ |
+| Node.js | 🟢 |
+| TypeScript | 🔷 |
+| HTML | 🌐 |
+| CSS | 🎨 |
